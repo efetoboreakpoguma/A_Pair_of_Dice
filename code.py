@@ -19,7 +19,7 @@ def main():
     dice_throw = 'y'
     while dice_throw == 'y' or dice_throw == 'Y':
         for num in range (2):
-            random_num = random.randint (1, 6)
+            random_num = random.randrange (1, 7)
             print (random_num, end=" ")
             print()
         dice_throw = input("""Do you want to continue with throwing the dice
