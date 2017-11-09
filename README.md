@@ -1,2 +1,2 @@
-# A_Pair_of_Dice
+# aPairOfDice
 Python program to simulate the throw of a pair of dice
